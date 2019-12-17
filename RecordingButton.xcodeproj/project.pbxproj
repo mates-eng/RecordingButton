@@ -113,6 +113,7 @@
 		3073A8C32268750100DA8243 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = Mates;
 				TargetAttributes = {
@@ -128,6 +129,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 3073A8C22268750100DA8243;
 			productRefGroup = 3073A8CD2268750100DA8243 /* Products */;

@@ -1,0 +1,11 @@
+framework module RecordingButton {
+  umbrella header "RecordingButton.h"
+
+  export *
+  module * { export * }
+}
+
+module RecordingButton.Swift {
+    header "RecordingButton-Swift.h"
+    requires objc
+}
