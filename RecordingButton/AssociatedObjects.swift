@@ -9,7 +9,7 @@
 import Foundation
 
 class AssociatedObjects: NSObject {
-    var dictionary: [String: Any] = [:]
+    var dictionary = [String: Any]()
     
     subscript(key: String) -> Any? {
         get { return self.dictionary[key] }
